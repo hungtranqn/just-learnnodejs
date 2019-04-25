@@ -1,0 +1,1 @@
+var PI=Math.PI,time_call=0;module.exports.circle=function(e){return time_call+=1,e*e*PI},module.exports.time_call=function(){return time_call};

@@ -1,0 +1,24 @@
+{
+  "name": "just-learnnodejs",
+  "version": "1.0.0",
+  "description": "This repo just save state last time I learn nodejs, to convenient when I usually switch laptop company and home.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungtranqn/just-learnnodejs.git"
+  },
+  "author": "Gnuhdt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungtranqn/just-learnnodejs/issues"
+  },
+  "homepage": "https://github.com/hungtranqn/just-learnnodejs#readme",
+  "dependencies": {
+    "gulp": "^4.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2"
+  }
+}
